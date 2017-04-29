@@ -375,7 +375,7 @@
             "showButton": false
           },
           "title": "Most Recent Post",
-          "text": "<p>Read my most recent post below or click <b><i>here</i></b> to see all of them.</p>",
+          "text": "<p>Read my most recent post below or click <b><i><a href=\"posts.html\">here</a></i></b> to see all of them.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -731,7 +731,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/giphy-downsized2.gif",
+              "src": "@PROJECT_PATH@/assets/images/giphy-downsized4.gif",
               "link": "",
               "alt": "",
               "title": "",
