@@ -480,7 +480,7 @@ h6,
 #msg-box8-x p {
   color: #fff;
 }
-#msg-box5-16 P {
+#msg-box5-1a P {
   text-align: left;
 }
 #form1-12 .form-control-label {
@@ -501,6 +501,9 @@ h6,
 }
 #msg-box6-14 P {
   color: #2969b0;
+}
+#msg-box5-19 P {
+  text-align: left;
 }
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
